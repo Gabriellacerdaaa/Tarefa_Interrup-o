@@ -1,6 +1,5 @@
 # Display de Dígitos com Matriz WS2812B
 
-![BitDogLab](https://via.placeholder.com/150x50?text=BitDogLab)
 
 Projeto para exibir dígitos (0-9) em uma matriz de LEDs WS2812B (5x5) usando o Raspberry Pi Pico (BitDogLab). O sistema permite alterar o dígito com botões e indica atividade com um LED RGB (canal vermelho).
 
